@@ -20,6 +20,6 @@ We hope this simple act can have a ripple effect to serve as a bridge where what
 
 If you want to contribute, it's very simple!
 - If you know any **Public Datasets on Expert Meditators**, please send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to update [dataset.md](datasets.md) (I didn't lie :) very little is there now and we need your help! 🤗)
-- If you're an Expert Meditator and are willing to contribute your data, you can either create a [Github Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to share this amazing news, or if you want to stay low, you can contact me in private and I'll find people to connect you to.
+- If you're an **Expert Meditator** and are willing to contribute your data, you can either create a [Github Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to share this amazing news, or if you want to stay low, you can contact me in private and I'll find people to connect you to. Use the contact form on my [website](https://yixuezhao.com).
 
 Thank you for your contributions. 🌸
