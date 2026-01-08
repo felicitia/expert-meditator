@@ -12,7 +12,7 @@ So there you go! Living in a connected world where everything is possible, why d
 
 ## What
 
-This repository is a place to collect **Public Datasets on Expert Meditators**. We only maintain a "[Table of Content](datasets.md)" of different datasets (a collection of links basically), and everyone can send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to update this magical library of links (hope there will be more coming! ✨).
+This repository is a place to collect **Public Datasets on Expert Meditators**. We only maintain a [Table of Content](datasets.md) of different datasets (a collection of links basically), and everyone can send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to update this magical library of links (hope there will be more coming! ✨).
 
 We hope this simple act can also have a ripple effect to serve as a bridge where what you offer meets what someone else needs! 💫
 
